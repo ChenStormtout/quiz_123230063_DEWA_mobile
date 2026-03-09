@@ -18,7 +18,7 @@ class _MenuListPageState extends State<MenuListPage> {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('Menu Restoran'),
+          title: const Text('Menu Angkringan'),
           backgroundColor: Colors.orange,
           elevation: 0,
           bottom: const TabBar(
